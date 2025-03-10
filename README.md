@@ -53,12 +53,13 @@ The final model not only met but **exceeded expectations** by achieving **strong
 
 ## 💡 **Feedback & Contributions**
 
-I appreciate any **feedback** and **suggestions** that could drive this project to its **next phase of development**. Feel free to **open issues** or **submit pull requests** to enhance this project.
+I appreciate any **feedback** and **suggestions** that could drive this project to its **next development phase**. Feel free to **open issues** or **submit pull requests** to enhance this project.
 
 ---
 
 ### 🛠️ **Technologies Used**
 
-- **Python**: pandas, numpy, scikit-learn, matplotlib, seaborn
+- **Python**: pandas, numpy, scikit-learn, matplotlib, seaborn, pickle
 - **Machine Learning**: RandomForestClassifier, LogisticRegression, SupportVectorMachine, GridSearchCV, RandomizedSearchCV
 - **Data Visualization**: Seaborn, Matplotlib
+- **Performance Metrics**: ROC-AUC Curves, Feature Importance Bar Charts
