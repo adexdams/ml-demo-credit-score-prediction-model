@@ -30,6 +30,12 @@ The primary objective of this project was to develop a robust machine learning m
 - Individuals with **higher incomes** and **longer credit histories** were more likely to have **good credit scores**.
 - The **number of loans** and **credit utilization ratio** also played significant roles in **credit score classification**.
 
+### 5. **Test Case Predictions**
+- The model was tested with **edge case scenarios**, demonstrating reliable predictions with custom **decision thresholds**:
+- High-income, low-debt scenarios accurately predicted as **Credit_Score_Standard**.
+- Low-income, high-debt scenarios correctly identified as **Credit_Score_Poor**.
+- The thresholds addition minimized **overlap** in predictions, enhancing **classification accuracy**.
+
 ---
 
 ## ✅ **Conclusion**
